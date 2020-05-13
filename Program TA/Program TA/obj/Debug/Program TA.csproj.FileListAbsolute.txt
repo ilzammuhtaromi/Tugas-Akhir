@@ -1,0 +1,14 @@
+D:\DKP\C#\Program TA\Program TA\bin\Debug\Program TA.exe.config
+D:\DKP\C#\Program TA\Program TA\bin\Debug\Program TA.exe
+D:\DKP\C#\Program TA\Program TA\bin\Debug\Program TA.pdb
+D:\DKP\C#\Program TA\Program TA\obj\Debug\Program_TA.Form1.resources
+D:\DKP\C#\Program TA\Program TA\obj\Debug\Program_TA.Forms.formMenu.resources
+D:\DKP\C#\Program TA\Program TA\obj\Debug\Program_TA.Properties.Resources.resources
+D:\DKP\C#\Program TA\Program TA\obj\Debug\Program_TA.User_Controls.DashboardUC.resources
+D:\DKP\C#\Program TA\Program TA\obj\Debug\Program TA.csproj.GenerateResource.cache
+D:\DKP\C#\Program TA\Program TA\obj\Debug\Program TA.csproj.CoreCompileInputs.cache
+D:\DKP\C#\Program TA\Program TA\obj\Debug\Program TA.exe
+D:\DKP\C#\Program TA\Program TA\obj\Debug\Program TA.pdb
+D:\DKP\C#\Program TA\Program TA\obj\Debug\Program_TA.User_Controls.Menu.resources
+D:\DKP\C#\Program TA\Program TA\obj\Debug\Program_TA.User_Controls.PesanSekarang.resources
+D:\DKP\C#\Program TA\Program TA\obj\Debug\Program TA.csprojAssemblyReference.cache
